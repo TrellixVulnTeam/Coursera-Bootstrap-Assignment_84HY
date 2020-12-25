@@ -1,0 +1,30 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is an assignment directory to learn full stack development using React.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "https://github.com/manju0912/Coursera--Full-Stack-Development-With-React",
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manju0912/Coursera--Full-Stack-Development-With-React.git"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "Manju Gurung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manju0912/Coursera--Full-Stack-Development-With-React/issues"
+  },
+  "homepage": "https://github.com/manju0912/Coursera--Full-Stack-Development-With-React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {}
+}
